@@ -29,11 +29,11 @@ This is a university microcontroller project that builds a **fully automatic fis
 
 ## ⚙️ How It Works
 
-1. **Timekeeping**: The DS1302 module keeps the current time even when the power is off.
-2. **Scheduled Feeding**: Feeding times are stored and checked every second using TIM2.
-3. **Manual Feeding**: You can wave your hand (IR sensor) or press a button to feed manually.
-4. **Motor Activation**: Motor runs via a MOSFET when feeding occurs.
-5. **Visual Feedback**: LEDs alternate while the motor is active.
+
+1. **Scheduled Feeding**: Feeding times are stored and checked every second using TIM2.
+2. **Manual Feeding**: You can wave your hand (IR sensor) or press a button to feed manually.
+3. **Motor Activation**: Motor runs via a MOSFET when feeding occurs.
+4. **Visual Feedback**: LEDs alternate while the motor is active.
 
 ---
 
