@@ -41,7 +41,7 @@ This is a university microcontroller project that builds a **fully automatic fis
 
 1. Flash `motor.c` to your STM32 board using Keil UVision5. 
 2. Open Tera Term and connect via USART1 to see time updates and debug logs.
-3. Connect components as shown in [images/schematic.png](images/schematic.png).
+3. Connect components as shown in [images/schematic.png](Schematic/Schematic.pdf).
 
 ---
 
